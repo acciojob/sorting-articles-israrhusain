@@ -8,11 +8,10 @@
 	width:50%;
 	background-color:white;
 }
-.item{
+#bands{
 	
-	display:flex;
-	justify-content:space-betwwen;
-	padding:15px;
+	
+	padding:5px;
 	list-style-type:square;
 	
 }
